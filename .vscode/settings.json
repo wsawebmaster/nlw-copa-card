@@ -21,8 +21,8 @@
   // light editor
   "breadcrumbs.enabled": false,
   "editor.minimap.enabled": false,
-  "workbench.activityBar.visible": false,
-  "workbench.statusBar.visible": false,
+  "workbench.activityBar.visible": true,
+  "workbench.statusBar.visible": true,
 
   // explorer
   "explorer.compactFolders": false,
@@ -47,5 +47,5 @@
     }
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "window.zoomLevel": 1
+  "window.zoomLevel": -2
 }
